@@ -1,0 +1,24 @@
+#kqi .aright{
+    text-align: right;
+}
+#kqi .acenter{
+    text-align: center;
+}
+#kqi .aleft{
+    text-align: left;
+}
+table.dataTable tfoot th, table.dataTable tfoot td {
+    padding: 10px 10px 3px;
+}
+div#menu{
+    margin-top: 1.9em;
+    height: 850px;
+    overflow-y: auto;
+}
+div#datat{
+    padding-right: 40px;
+    margin-top: 1em;
+}
+h2.titolo{
+    margin-bottom: 1.3em;
+}
